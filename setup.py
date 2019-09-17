@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='ancypwn-terminal-alacritty',
+    name='ancypwn-terminal-termite',
     version='0.0.1',
-    url='https://github.com/Escapingbug/ancypwn-terminal-alacritty',
-    author='Anciety',
-    author_email='ancypwn@pku.edu.cn',
+    url='https://github.com/circleous/ancypwn-terminal-termite',
+    author='Kyra',
+    author_email='circleousdev@gmail.com',
     description='ancypwn terminal plugin',
-    packages=['ancypwn_terminal_alacritty'],
-    package_dir={'ancypwn_terminal_alacritty': 'src'},
+    packages=['ancypwn_terminal_termite'],
+    package_dir={'ancypwn_terminal_termite': 'src'},
 )

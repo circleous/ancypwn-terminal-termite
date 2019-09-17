@@ -1,1 +1,1 @@
-from .alacritty import run
+from .termite import run
